@@ -3,8 +3,4 @@ git is free sortware distributed under the GPL.
 git has a mutable index called stage.
 git tracks changes of files.
 create a new branch is quick.
-<<<<<<< HEAD
-create a new branch is quick AND simple.
-=======
-create a new branch is quick AND simple.
->>>>>>> feature1
+create a new branch no ff.
